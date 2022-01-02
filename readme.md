@@ -1,18 +1,18 @@
-> Project Title: Forecast Microbial Quality of Drinking Water Using Artificial Neural Network 
+# Forecast Microbial Quality of Drinking Water Using Artificial Neural Network 
 
-> Supervisor: Ekaterina Sokolova 
+> *Project details*
 
-> Contributors: 
+> Supervisor: **Ekaterina Sokolova** 
+
+> Contributors: **Şihab S Bayraktar**, **Shivam Gusain**, **Merle Liebenehm-Axmann**, **Nazifa M Shemonti** 
 
 > Course Title: Project in Data Science 
 
 > Code: 1DL505 
 
-> Semester: Autumn 2021
+> Semester: Autumn 2021 
 
 --- 
-
-# Forecast Microbial Quality of Drinking Water Using Artificial Neural Network 
 
 ## Summary 
 
