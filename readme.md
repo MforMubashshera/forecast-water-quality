@@ -1,21 +1,31 @@
-# Forecast Microbial Quality of Drinking Water Using Artificial Neural Network 
+# Forecast Fecal Contamination Level in Drinking Water: *Adding data-driven hybridized model to contemporary methods for fecal bacteria monitoring*
 
 > *Project details*
 
-> Supervisor: **Ekaterina Sokolova** 
+Course Title: Project in Data Science 
 
-> Contributors: **Şihab S Bayraktar**, **Shivam Gusain**, **Merle Liebenehm-Axmann**, **Nazifa M Shemonti** 
+Code: 1DL505 
 
-> Course Title: Project in Data Science 
+Semester: Autumn 2021 
 
-> Code: 1DL505 
-
-> Semester: Autumn 2021 
+Coordinator: **Arif Mohammed**
 
 --- 
 
-## Summary 
+> *Project description*
+
+Supervisor: **Ekaterina Sokolova** 
+
+---
+
+> *Repository details*
 
 ## Folders 
 
-## Run 
+**models/**: trained models used in analysis
+
+**notebooks/**: analysis notebooks
+
+**resources/**: plots and reports on analysis
+
+## Setup 
