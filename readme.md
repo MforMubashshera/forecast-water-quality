@@ -1,6 +1,10 @@
-# Forecast Fecal Contamination Level in Drinking Water: *Adding data-driven hybridized model to contemporary methods for fecal bacteria monitoring*
+# Forecast Fecal Contamination Level in Drinking Water
 
 > *Project details*
+
+Title: **Forecast Fecal Contamination Level in Drinking Water**
+
+Subtitle: Adding data-driven hybridized model to contemporary methods for fecal bacteria monitoring
 
 Course Title: Project in Data Science 
 
